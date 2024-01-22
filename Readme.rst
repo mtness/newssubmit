@@ -4,10 +4,11 @@ News submit
 This extension (newssubmit) aims to be a general solution to be able to let visitors/fe_users submit news on your site.
 Including the possibility to upload images and attachments.
 
+My fork here restores Compatibility to Version 11 of TYPO3 and news
 
 **How to use:**
 
-1. Download and install newssubmit (frorm TER or https://github.com/kaystrobach/TYPO3.newssubmit)
+1. Download and install (from TER, https://github.com/mtness/newssubmit or via composer)
 
 2. Include the static template "News Submit (newssubmit)"
 
@@ -17,5 +18,5 @@ Including the possibility to upload images and attachments.
 
 **Requirements:**
 
-    TYPO3 >= 6.2.4
-    EXT:news >= 3.2
+    TYPO3 >= 11.5
+    EXT:news >= 11
